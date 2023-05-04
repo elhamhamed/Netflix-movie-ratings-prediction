@@ -14,6 +14,7 @@ The dataset used in this project is a collection of movie ratings collected from
 source :https://www.kaggle.com/datasets/sonalisingh1411/netflix-dataset
 
 **Requirements**
+
 •Data Preprocessing (Cleaning Data, Normalization)
 • Split your data set into train data and test data (If the data is not split)
 • You will use a suitable algorithm for your dataset. (Classification, Regression, Clustering, Association, etc...).
@@ -24,19 +25,21 @@ Data Preprocessing**
 
 Before you can begin training and testing your machine learning model, you will need to preprocess the dataset. This includes cleaning the data, handling missing values, and normalizing the data :
 
-   •Data Cleaning:
-        Data cleaning is the process of identifying and correcting or removing inaccurate or irrelevant
-        data from the dataset. This may involve handling missing orduplicated data, dealing with outliers, and correcting inconsistencies in the data.
+**   •Data Cleaning:
+**   
+   Data cleaning is the process of identifying and correcting or removing inaccurate or irrelevant
+   data from the dataset. This may involve handling missing orduplicated data, dealing with outliers, and correcting inconsistencies in the data.
         
-   •Data Normalization:
-        Data normalization is the process of scaling the values of the dataset so that they fall
-        within a specific range or distribution. This is important to ensure
-        that the data is comparable and that the machine learning algorithm can make accurate predictions.
+**   •Data Normalization:
+**   
+   Data normalization is the process of scaling the values of the dataset so that they fall within a specific range or distribution. This is important to ensure
+   that the data is comparable and that the machine learning algorithm can make accurate predictions.
         
-   • Feature Selection:
-        Feature selection involves identifying the most relevant features in the dataset that will be used to make predictions.
-        This can be done by analyzing the correlation between features and the target variable, and removing any features that
-        are redundant or irrelevant.
+**   • Feature Selection:
+**   
+   Feature selection involves identifying the most relevant features in the dataset that will be used to make predictions.
+   This can be done by analyzing the correlation between features and the target variable, and removing any features that
+   are redundant or irrelevant.
 
 
 
