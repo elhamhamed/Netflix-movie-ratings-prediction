@@ -23,14 +23,14 @@ source :https://www.kaggle.com/datasets/sonalisingh1411/netflix-dataset
 Data Preprocessing**
 
 Before you can begin training and testing your machine learning model, you will need to preprocess the dataset. This includes cleaning the data, handling missing values, and normalizing the data :
-     Data Cleaning
+     •Data Cleaning:
         Data cleaning is the process of identifying and correcting or removing inaccurate or irrelevant data from the dataset. This may involve handling missing or             duplicated data, dealing with outliers, and correcting inconsistencies in the data.
 
-    Data Normalization
+    •Data Normalization:
         Data normalization is the process of scaling the values of the dataset so that they fall within a specific range or distribution. This is important to ensure
         that the data is comparable and that the machine learning algorithm can make accurate predictions.
 
-    Feature Selection
+    • Feature Selection:
         Feature selection involves identifying the most relevant features in the dataset that will be used to make predictions. This can be done by analyzing the               correlation between features and the target variable, and removing any features that are redundant or irrelevant.
 
 
