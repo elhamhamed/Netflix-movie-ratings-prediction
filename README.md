@@ -33,6 +33,7 @@ Before you can begin training and testing your machine learning model, you will 
    that the data is comparable and that the machine learning algorithm can make accurate predictions.
         
 **• Feature Selection:** 
+
    Feature selection involves identifying the most relevant features in the dataset that will be used to make predictions.
    This can be done by analyzing the correlation between features and the target variable, and removing any features that
    are redundant or irrelevant.
