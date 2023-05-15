@@ -51,8 +51,10 @@ Before you can begin training and testing your machine learning model, you will 
 
 --Converted categorical variables to numerical: We converted the categorical variables such as 'type' and 'rating' to numerical values.
 
---Split the data into training and testing sets: We split the data into a 80/20 training and testing set to evaluate the performance of    the models.
+--Split the data into training and testing sets: We split the data into a 80/20 training and testing set to evaluate the performance of  the models.
+
   **•#Data Visulization :**
+  
 Visualizing the Netflix dataset can help you gain a better understanding of the data, identify patterns and trends, and communicate insights to stakeholders. Here are some reasons why you might want to visualize the Netflix dataset:
 
 1. Exploring the data: Data visualization can help you explore the features and characteristics of the Netflix dataset, such as the distribution of the ratings, the number of movies or TV shows released each year, and the popularity of different genres.
