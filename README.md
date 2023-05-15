@@ -77,7 +77,8 @@ Overall, visualizing the Netflix dataset can help you better understand the data
    This can be done by analyzing the correlation between features and the target variable, and removing any features that
    are redundant or irrelevant.
 
-**• Model:** 
+**• Model:**
+
 Model Building and Evaluation
 We trained and evaluated four different machine learning models on the preprocessed Netflix dataset. The models we used were:
 
@@ -102,4 +103,5 @@ Based on the above results, the logistic regression model had the highest accura
 
 
 **Conclusion**
+
 In conclusion,  we compared the performance of four different machine learning models on the Netflix dataset. We found that the logistic regression model had the best performance based on the evaluation metrics used. This model can be used to predict the popularity of movies and TV shows on Netflix with a high degree of accuracy. tailored recommendations can be made based on information about movies and TV shows. In addition, similar models can be developed to provide valuable recommendations to consumers in other domains. It will solve for improved movie and TV-Show selection times with a considerable growth in satisfaction of the content being consumed leading to more user engagement and greater trust in Netflix recommendations.
