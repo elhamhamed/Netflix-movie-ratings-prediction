@@ -1,15 +1,16 @@
 # Netflix-movie-ratings-prediction
-**Overview**
+
+#**Overview**
 
 The Netflix Movie Ratings Prediction project is a machine learning project that aims to predict movie ratings based on various features such as genre, cast, and runtime. The project uses a dataset of movie ratings collected from Netflix and employs various machine learning algorithms to make predictions
 Recommendation system is the most profitable solution for the organization that offers its services to a number of users who have a number of options. As the name suggests, the system uses algorithms to recommend content (videos, ads, news, etc.) to an individual based on their usage.
 Content based method utilizes more information about user and items to create a model that learns how a user having certain features will prefer a particular item having a set of characteristics over other items. Content based method uses available information about user and items like features of a user or characteristic or content of an item that explain the interaction between the user and item. The method doesn’t suffer from poor recommendations due to insufficient beginner data.
 
-**Problem Statement**
+#**Problem Statement**
 
 The goal of this project is to find similarity within groups of people to build a movie recommendation system for users. We are going to analyze a dataset from the Netflix database to explore the characteristics that people share in movies. We have experienced it ourselves or have been in the room, the endless scrolling of selecting what to watch. Users spend more time deciding what to watch than watching their movie.
 
-**Data Summery**
+#**Data Summery**
 
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Fixable which is a third-party Netflix search engine. In 2018, they released an interesting report which shows that the number of TV shows on Netflix has nearly tripled since 2010. The streaming service’s number of movies has decreased by more than 2,000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset. Integrating this dataset with other external datasets such as IMDB ratings, rotten tomatoes can also provide many interesting findings.
 •	Show_Id: Unique ID for every Movie / Tv Show
@@ -23,12 +24,12 @@ This dataset consists of tv shows and movies available on Netflix as of 2019. Th
 •	Type: Genere
 •	Description: The Summary description
 
-**Dataset**
+#**Dataset**
 
 The dataset used in this project is a collection of movie ratings collected from Netflix. The dataset includes various features such as genre, cast, and runtime, and is available
 source :https://www.kaggle.com/datasets/sonalisingh1411/netflix-dataset
 
-**Requirements**
+#**Requirements**
 
 •Data Preprocessing (Cleaning Data, Normalization)
 • Split your data set into train data and test data (If the data is not split)
