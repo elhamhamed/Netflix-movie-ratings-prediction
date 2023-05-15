@@ -93,7 +93,8 @@ Logistic Regression: A logistic regression model was built using the sklearn lib
 
 We evaluated the performance of each model using the following metrics:
 
-Accuracy: The proportion of correctly classified instances in the test set.
+Accuracy:
+The proportion of correctly classified instances in the test set.
 Precision: The proportion of true positive predictions among the total positive predictions.
 Recall: The proportion of true positive predictions among the total actual positives.
 F1-Score: A weighted average of precision and recall.
